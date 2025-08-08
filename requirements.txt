@@ -7,6 +7,4 @@ pdfplumber
 beautifulsoup4
 openpyxl
 reportlab
-beautifulsoup4
-
-execution command : streamlit run Medical_Diagnosis_System.py
+pillow

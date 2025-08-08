@@ -3,6 +3,7 @@ streamlit-option-menu
 pandas
 numpy
 scikit-fuzzy
+scipy
 pdfplumber
 beautifulsoup4
 openpyxl

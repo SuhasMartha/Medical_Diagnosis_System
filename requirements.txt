@@ -1,11 +1,25 @@
+# Core UI
 streamlit
 streamlit-option-menu
+
+# Data processing
 pandas
 numpy
+
+# Fuzzy logic & math
 scikit-fuzzy
 scipy
+networkx
+
+# PDF processing
 pdfplumber
-beautifulsoup4
-openpyxl
-reportlab
 pillow
+
+# HTML parsing
+beautifulsoup4
+
+# Excel handling
+openpyxl
+
+# PDF creation
+reportlab
